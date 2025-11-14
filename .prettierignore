@@ -54,7 +54,7 @@ jspm_packages/
 # Yarn Integrity file
 .yarn-integrity
 
-# parcel-bundler cache (https://parceljs.org/)
+# parcel-bundler cache (<https://parceljs.org/>)
 .cache
 .parcel-cache
 
@@ -104,6 +104,6 @@ LICENSE
 # README.md
 
 # Config files that should not be formatted
-*.config.js
-*.config.mjs
-*.config.ts
+# *.config.js
+# *.config.mjs
+# *.config.ts
